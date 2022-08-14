@@ -2,9 +2,9 @@
 
 ## About us
 
-Clearmatics is a technology and protocol engineering company 🤖.
+Clearmatics is a blockchain protocol engineering company 🤖.
 
-We are building a new financial market architecture that is more open, fair, and resilient than the legacy systems that are in use today. We design protocols and write software that create new markets for risks and more efficient infrastructure for trading 📉📈.
+We are building a new financial market architecture that is more open, fair, and resilient than the legacy systems that are in use today. We design protocols and write software that create new markets that are blockchain-native. 📉📈.
 
 We're driven by progress and continuous improvement.
 
@@ -12,7 +12,7 @@ We're driven by progress and continuous improvement.
 
 We operate in a "remote first" model and are regularly looking to expend our global team 🗺️.
 
-If you see yourself as a software engineer/protocol engineer/developer/computer scientist, have a "doer" mindset and are eager to design and implement robust distributed systems, state-of-the-art cryptography and incentive structures, we probably have a role for you on our [hiring board](https://boards.greenhouse.io/clearmatics)!
+If you see yourself as a software engineer|protocol engineer|developer|computer scientist, have a "doer" mindset and are eager to work on distributed systems, state-of-the-art cryptography and incentive mechanism design, we probably have a role for you on our [hiring board](https://boards.greenhouse.io/clearmatics)!
 
 ## Contributing
 
