@@ -4,7 +4,7 @@
 
 Clearmatics is a blockchain protocol engineering company 🤖.
 
-We are building a new financial market architecture that is more open, fair, and resilient than the legacy systems that are in use today. We design protocols and write software that create new markets that are blockchain-native. 📉📈.
+We develop trading and settlement protocols for decentralised markets. We are passionate about market structure innovation and work to productionise foundational research at the intersection of computer science and financial engineering.
 
 We're driven by progress and continuous improvement.
 
